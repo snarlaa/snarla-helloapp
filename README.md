@@ -2,7 +2,9 @@
 ## Requirements
 - Deploy working Hello-world application in Kubernetes using IAC and CI pipeline.
 
-## Stratergy
+## Hello-World APP
+- Python + Flask
+- Created a Docker Container and pushed it to Docker Registry.
 
 
 ## Using Terraform 
@@ -11,6 +13,7 @@
 
 ## Using Jenkins Pipeline
 - Created EKS Cluster in us-east-2 
+- Enabled Node autoscaler
 
 ## Using K8 resource files
 - Deployed AWS ALB ingress Controller using Helm
@@ -23,6 +26,10 @@
 - Registered a test domain
 - Generated Cert
 - Deployed the Certificate 
+
+
+
+
 
 
 
